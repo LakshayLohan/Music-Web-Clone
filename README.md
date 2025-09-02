@@ -47,7 +47,7 @@ A front-end clone of Spotify's web player UI built using **HTML**, **CSS**, and 
 
 ## 🚀 Live Demo
 
-Play it here: [Spotify Clone](https://lakshaylohan.github.io/Music-Web-Clone/)
+Click here: [Spotify Clone](https://lakshaylohan.github.io/Music-Web-Clone/)
 
 ---
 
