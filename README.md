@@ -43,6 +43,11 @@ A front-end clone of Spotify's web player UI built using **HTML**, **CSS**, and 
     ├── card1img.jpeg
     ├── player_icon1.png
     └── etc...
+---
+
+## 🚀 Live Demo
+
+Play it here: [Simon Game Demo](https://lakshaylohan.github.io/Music-Web-Clone/)
 
 ---
 
