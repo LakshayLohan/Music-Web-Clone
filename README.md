@@ -58,8 +58,9 @@ A front-end clone of Spotify's web player UI built using **HTML**, **CSS**, and 
 
 ## 🙋‍♀️ Author
 
-Made with ❤️ by **Aarti Rathee**  
-[GitHub Profile](https://github.com/Aarti2417)
+Made with ❤️ by **Lakshay Lohan**  
+[GitHub Profile](https://github.com/LakshayLohan
+)
 
 ---
 
